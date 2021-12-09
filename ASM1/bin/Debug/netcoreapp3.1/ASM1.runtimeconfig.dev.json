@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ASUS ZenBook\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ASUS ZenBook\\.nuget\\packages"
+    ]
+  }
+}
