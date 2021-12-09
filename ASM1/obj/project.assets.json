@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS ZenBook\\source\\repos\\ASM1\\ASM1\\ASM2.csproj",
-      "projectName": "ASM2",
-      "projectPath": "C:\\Users\\ASUS ZenBook\\source\\repos\\ASM1\\ASM1\\ASM2.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS ZenBook\\source\\repos\\ASM1\\ASM1\\ASM1.csproj",
+      "projectName": "ASM1",
+      "projectPath": "C:\\Users\\ASUS ZenBook\\source\\repos\\ASM1\\ASM1\\ASM1.csproj",
       "packagesPath": "C:\\Users\\ASUS ZenBook\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\ASUS ZenBook\\source\\repos\\ASM1\\ASM1\\obj\\",
       "projectStyle": "PackageReference",
